@@ -2,3 +2,6 @@ baseURL: https://sakkenix.cloud/
 locale: en-us
 title: My New Hugo Project
 theme: ["PaperMod"]
+caches:
+  images:
+    dir: :cacheDir/images
